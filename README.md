@@ -1,5 +1,6 @@
 # Customer-Churn-Prediction-using-R
 
+###### Updated on 01/31/2021
 ## This repository contains the code of Customer Churn Prediction model in R studio.
 
 ### Requirements:
