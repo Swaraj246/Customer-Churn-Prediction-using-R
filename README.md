@@ -1,5 +1,4 @@
 # Customer-Churn-Prediction-using-R
-###### Repo for Customer Churn prediciton model in R studio predicting Churn rates of customers
 
 ###### Updated on 01/31/2021
 ## This repository contains the code of Customer Churn Prediction model in R studio.
